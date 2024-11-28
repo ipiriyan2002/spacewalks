@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Spacewalks
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ishaipiriyan
+    family-names: Karunakularatnam
+    email: ipiriyan2002@gmail.com
+    affiliation: 'Royal Botanical Gardens, Kew'
+repository-code: 'https://github.com/ipiriyan2002/spacewalks'
+abstract: >-
+  Spacewalks is a Python analysis tool for researchers to
+  generate visualisations
+
+  and statistical summaries of NASA's extravehicular
+  activity datasets.
+keywords:
+  - NASA
+  - Extravehicular activity
+license: MIT
